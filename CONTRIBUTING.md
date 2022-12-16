@@ -5,7 +5,7 @@
 If you would like us to include a new dataset, create an issue with the following information and we'll add it to the list.
 
 - **Name**: dataset name
-- **Size**: dataset size in Gigaytes
+- **Size**: dataset size in Gigbytes
 - **Source**: data source (i.e Sentinel 1, Sentinel 2, Drone, ...)
 - **Technique**: AI technique that can be solved with the dataset (i.e classification, object detection, ...)
 - **Application**: the application enabled by the dataset (i.e land cover, urban development, ...)
